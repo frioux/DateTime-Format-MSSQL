@@ -1,5 +1,5 @@
 package DateTime::Format::MSSQL;
-
+# ABSTRACT: parse and format MSSQL DATETIME's
 use strict;
 use warnings;
 use DateTime::Format::Strptime;
