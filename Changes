@@ -1,4 +1,10 @@
-Revision history for DateTime-Format-MSSQL
+Revision history for {{$dist->name}}
+
+{{$NEXT}}
+
+1.000000  2012-11-17 16:55:58 CST6CDT
+    - Use nicer version scheme
+    - Put MetaYAML back in dist
 
 0.092950  2009-10-21 22:00:00
     - first release
