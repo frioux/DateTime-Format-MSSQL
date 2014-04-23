@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    - Allow passing time_zone during instantiation (Fixes RT#92844)
 
 1.000000  2012-11-17 16:55:58 CST6CDT
     - Use nicer version scheme
